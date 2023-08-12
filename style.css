@@ -1,0 +1,22 @@
+.linear-gradient{
+    background-image: linear-gradient(rgb(40, 141, 234),rgb(169, 0, 169));
+}
+
+#main-content{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    font-family: 'Poppins', sans-serif;
+}
+.btngr{
+    border-radius: 20px;
+    height: 35px;
+    width:150px;
+    background-color: green;
+    color:white;
+    border-style: none;
+}
+.btngr:hover{
+    background-color: silver;
+    color: black;
+}
